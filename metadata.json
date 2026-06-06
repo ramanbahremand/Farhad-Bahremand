@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Medical Assistant AI",
+  "description": "An AI-powered medical assistant for translating and structuring prescriptions, lab reports, and medical documents. Supports Persian, Kurdish, and English.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
